@@ -1,4 +1,4 @@
-# Streamlining-Order-Fulfillment
+# E-commerce-Order-Fulfillment-Analysis
 Data Analysis and Visualization on E-commerce Order Fulfillment Efficiency. The interactive dashboard can be found at (https://public.tableau.com/app/profile/tyler.valdez/viz/EcommerceDataset_17297308296490/Dashboard1)
 
 ## Overview
