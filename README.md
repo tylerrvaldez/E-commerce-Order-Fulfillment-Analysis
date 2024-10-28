@@ -5,7 +5,7 @@ Data Analysis and Visualization on E-commerce Order Fulfillment Efficiency. The 
 In this analysis, I explore key metrics of order fulfillment, from purchase to delivery, to uncover insights into the efficiency of the e-commerce supply chain. The project aims to provide actionable recommendations to improve processing times, reduce late deliveries, and enhance customer satisfaction. Key areas analyzed include approval time, delivery time, order volume trends, and regional order distribution.
 
 ## Project Preview
-![Sales Dashboard](Graphs/Dashboard_Screenshot.png)
+![Sales Dashboard](Graphs and Dashboard/Dashboard_Screenshot.png)
 
 ## Data Source
 The dataset, sourced from Kaggle (https://www.kaggle.com/datasets/bytadit/ecommerce-order-dataset), includes comprehensive details of e-commerce transactions, such as:
